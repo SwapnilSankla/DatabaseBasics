@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/testdb?user=${spring.datasource.username}&password=${spring.datasource.password}
+    username: dbuser
+    password: "#1asd#"
+

@@ -1,0 +1,6 @@
+06-11-2018 19:50:42.844 [main] INFO  c.s.derbyspringconnector.demo.App.logStarting - Starting App on IN-sankalas.local with PID 29065 (/Users/sankalas/SwapnilSankla-backup/Study/Java/DB/DerbySpringConnector/target/classes started by sankalas in /Users/sankalas/SwapnilSankla-backup/Study/Java/DB/DerbySpringConnector)
+06-11-2018 19:50:42.848 [main] INFO  c.s.derbyspringconnector.demo.App.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+06-11-2018 19:50:43.658 [main] INFO  c.s.derbyspringconnector.demo.App.logStarted - Started App in 1.037 seconds (JVM running for 1.646)
+06-11-2018 19:50:43.660 [main] INFO  com.zaxxer.hikari.HikariDataSource.getConnection - HikariCP pool HikariPool-0 is starting.
+06-11-2018 19:50:43.746 [main] INFO  c.s.derbyspringconnector.demo.App.run - Circle1                                           
+06-11-2018 19:50:43.751 [Thread-5] INFO  com.zaxxer.hikari.pool.HikariPool.shutdown - HikariCP pool HikariPool-0 is shutting down.

@@ -1,0 +1,5 @@
+/DerbyJDBCConnector/.idea/*
+/DerbyJDBCConnector/out/
+/DerbyJDBCConnector/logs/*
+/DerbySpringConnectorUsingJdbcTemplate/logs/*
+/PostgresConnectorUsingJdbcTemplate/logs/*
